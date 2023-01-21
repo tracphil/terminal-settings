@@ -312,7 +312,7 @@
 	<key>UseBoldFonts</key>
 	<false/>
 	<key>columnCount</key>
-	<integer>120</integer>
+	<integer>125</integer>
 	<key>name</key>
 	<string>Material Palenight</string>
 	<key>rowCount</key>
